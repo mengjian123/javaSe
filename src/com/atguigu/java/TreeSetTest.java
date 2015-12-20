@@ -15,7 +15,7 @@ class Parent implements Comparable {
 	}
 	@Override
 	public String toString() {
-		return "Parent 123123132123123123123[age=" + age + "]";
+		return "Parent [age=" + age + "]";
 	}
 	
 }
